@@ -46,7 +46,6 @@ function trouverMaximum(depenses) {
   }
   return max;
 }
-// Type : number ; unité : FCFA.
 const depenseMaximale = trouverMaximum(depensesSemaine);
 
 // TODO 5 : créer une copie triée, puis afficher le rapport demandé.
