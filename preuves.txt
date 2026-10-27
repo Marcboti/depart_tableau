@@ -1,0 +1,12 @@
+J06 — Preuve d’exécution
+PS C:\Users\DELL\Documents\depart (1)\depart> node depenses.js
+Sortie obtenue après avoir terminé le programme :
+
+Rapport des dépenses :
+- Dépenses avant le tri : [1500, 2500, 0, 4000, 1000, 2500, 3000]
+- Total : 14500 FCFA
+- Moyenne par jour : 2071.4285714285716 FCFA
+- Dépenses au-dessus de 2000 FCFA : 2500, 4000, 2500, 3000 FCFA
+- Dépense maximale : 4000 FCFA
+- Dépenses après le tri : [0, 1000, 1500, 2500, 2500, 3000, 4000]
+
